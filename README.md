@@ -1,2 +1,29 @@
-# My_Gallery
-My Gallery is a clean, responsive image gallery web project using HTML, CSS, and JavaScript. It displays aesthetic images in a stylish grid with grayscale hover effects. Clicking an image opens a lightbox with a zoomed view and dimmed background, offering a sleek and immersive user experience.
+# My Gallery
+
+**My Gallery** is a responsive and visually appealing image gallery web project built with **HTML**, **CSS**, and **JavaScript**.
+
+## ✨ Features
+
+- Responsive grid layout for images
+- Grayscale and hover effects for a modern look
+- Lightbox view on image click
+- Caption overlays on hover
+- Clean and aesthetic design
+
+## 🚀 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## 🛠️ How to Use
+
+1. Clone or download this repository.
+2. Place your images inside the `img/` folder.
+3. Open `index.html` in your browser.
+
+
+## 💡 Demo
+https://nayabkhan123.github.io/My_Gallery/
+
+
